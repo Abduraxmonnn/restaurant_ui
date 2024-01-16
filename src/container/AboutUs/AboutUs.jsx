@@ -21,9 +21,11 @@ const AboutUs = () => (
 					Quis Pharetra Adipiscing Ultrices Vulputate Posuere
 					Tristique. In Sed Odio Nec Aliquet Eu Proin Mauris Et
 				</p>
-				<button type='button' className='custom__button'>
-					Know More
-				</button>
+				<a href='https://1abduraxmon-resume.my.canva.site/' target='_blank'>
+					<button type='button' className='custom__button'>
+						Know More
+					</button>
+				</a>
 			</div>
 
 			<div className='app__aboutus-content_knife flex__center'>
@@ -38,9 +40,11 @@ const AboutUs = () => (
 					Volutpat. Risus Placerat Morbi Volutpat Habitasse Interdum
 					Mi Aliquam In Sed Odio Nec Aliquet.
 				</p>
-				<button type='button' className='custom__button'>
-					Know More
-				</button>
+				<a href='https://1abduraxmon-resume.my.canva.site/' target='_blank'>
+					<button type='button' className='custom__button'>
+						Know More
+					</button>
+				</a>
 			</div>
 		</div>
 	</div>
